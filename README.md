@@ -1,3 +1,3 @@
 # First-demo
-Just a piece of time waste
- Change One
+Just a piece of time waste.
+ Change
